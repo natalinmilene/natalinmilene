@@ -1,12 +1,7 @@
 - 👋 Olá, sou @natalinmilene
-- 👀 Estou interessado em ...
-- 🌱 Atualmente estou aprendendo...
-- 💞️ Procuro colaborar em ...
-- 📫 Como entrar em contato comigo ...
-
-<!---
-natalinmilene/natalinmilene é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
---->
+- 👀 Estou interessado em estudar
+- 🌱 Atualmente estou aprendendo criar sites
+- 💞️ Procuro colaborar em sala de aula
+- 📫 Como entrar em contato comigo @kksk.nathy ou @tropa_do_barulhooo
 
 ![](https://media.tenor.com/EkPgKfFQey0AAAAC/mav78aqui%C3%A9corinthians.gif)
